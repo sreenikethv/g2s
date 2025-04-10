@@ -1,0 +1,181 @@
+Average Accuracy over 30 trials:
+('bos_distance', 0.3395189003436426)
+('bucket_distance', 0.2762886597938144)
+('2-Gram Model', 0.39003436426116855)
+('3-Gram Model', 0.41134020618556716)
+('4-Gram Model', 0.3982817869415809)
+-------------------------------------
+Average Percentage Accuracy by Script over 30 trials:
+
+bos_distance:
+  Burmese: 63.33%
+  Burmese Numerals: 21.11%
+  Cyrillic: 27.08%
+  Greek Lowercase: 33.33%
+  Greek Uppercase: 7.78%
+  Hebrew: 32.38%
+  Malayalam: 18.33%
+  Malayalam Numerals: 33.33%
+  Numeral Arabic: 17.78%
+  Roman Lowercase: 19.52%
+  Roman Uppercase: 10.00%
+  Telugu: 90.00%
+  Telugu Numerals: 13.33%
+  Tifinagh: 17.50%
+
+bucket_distance:
+  Burmese: 52.67%
+  Burmese Numerals: 12.22%
+  Cyrillic: 29.17%
+  Greek Lowercase: 5.71%
+  Greek Uppercase: 2.78%
+  Hebrew: 15.71%
+  Malayalam: 28.61%
+  Malayalam Numerals: 24.17%
+  Numeral Arabic: 18.89%
+  Roman Lowercase: 13.33%
+  Roman Uppercase: 0.95%
+  Telugu: 85.56%
+  Telugu Numerals: 14.44%
+  Tifinagh: 6.25%
+
+2-Gram Model:
+  Burmese: 42.00%
+  Burmese Numerals: 11.11%
+  Cyrillic: 22.50%
+  Greek Lowercase: 27.14%
+  Greek Uppercase: 16.11%
+  Hebrew: 42.38%
+  Malayalam: 63.06%
+  Malayalam Numerals: 3.33%
+  Numeral Arabic: 11.11%
+  Roman Lowercase: 27.62%
+  Roman Uppercase: 25.71%
+  Telugu: 95.28%
+  Telugu Numerals: 1.11%
+  Tifinagh: 30.42%
+
+3-Gram Model:
+  Burmese: 55.67%
+  Burmese Numerals: 12.22%
+  Cyrillic: 21.67%
+  Greek Lowercase: 30.00%
+  Greek Uppercase: 15.56%
+  Hebrew: 39.52%
+  Malayalam: 58.06%
+  Malayalam Numerals: 12.50%
+  Numeral Arabic: 16.67%
+  Roman Lowercase: 34.29%
+  Roman Uppercase: 22.38%
+  Telugu: 97.50%
+  Telugu Numerals: 7.78%
+  Tifinagh: 32.08%
+
+4-Gram Model:
+  Burmese: 59.33%
+  Burmese Numerals: 7.78%
+  Cyrillic: 17.50%
+  Greek Lowercase: 24.76%
+  Greek Uppercase: 10.00%
+  Hebrew: 28.57%
+  Malayalam: 58.06%
+  Malayalam Numerals: 16.67%
+  Numeral Arabic: 27.78%
+  Roman Lowercase: 31.90%
+  Roman Uppercase: 25.71%
+  Telugu: 97.78%
+  Telugu Numerals: 14.44%
+  Tifinagh: 25.83%
+-------------------------------------
+
+F1 Scores per Script:
+
+Model: bos_distance
+  Burmese: F1 = 0.5655  (Precision=0.5108, Recall=0.6333)
+  Greek Uppercase: F1 = 0.0821  (Precision=0.0870, Recall=0.0778)
+  Telugu: F1 = 0.8130  (Precision=0.7414, Recall=0.9000)
+  Burmese Numerals: F1 = 0.1496  (Precision=0.1159, Recall=0.2111)
+  Malayalam Numerals: F1 = 0.2204  (Precision=0.1646, Recall=0.3333)
+  Roman Uppercase: F1 = 0.1061  (Precision=0.1129, Recall=0.1000)
+  Cyrillic: F1 = 0.2347  (Precision=0.2070, Recall=0.2708)
+  Roman Lowercase: F1 = 0.2130  (Precision=0.2343, Recall=0.1952)
+  Greek Lowercase: F1 = 0.2960  (Precision=0.2662, Recall=0.3333)
+  Malayalam: F1 = 0.2418  (Precision=0.3548, Recall=0.1833)
+  Hebrew: F1 = 0.4000  (Precision=0.5231, Recall=0.3238)
+  Tifinagh: F1 = 0.2428  (Precision=0.3962, Recall=0.1750)
+  Numeral Arabic: F1 = 0.1658  (Precision=0.1553, Recall=0.1778)
+  Telugu Numerals: F1 = 0.1500  (Precision=0.1714, Recall=0.1333)
+
+Model: bucket_distance
+  Burmese: F1 = 0.2741  (Precision=0.1852, Recall=0.5267)
+  Telugu Numerals: F1 = 0.1405  (Precision=0.1368, Recall=0.1444)
+  Hebrew: F1 = 0.2400  (Precision=0.5077, Recall=0.1571)
+  Burmese Numerals: F1 = 0.0913  (Precision=0.0728, Recall=0.1222)
+  Malayalam Numerals: F1 = 0.2283  (Precision=0.2164, Recall=0.2417)
+  Roman Uppercase: F1 = 0.0142  (Precision=0.0282, Recall=0.0095)
+  Cyrillic: F1 = 0.2869  (Precision=0.2823, Recall=0.2917)
+  Roman Lowercase: F1 = 0.1905  (Precision=0.3333, Recall=0.1333)
+  Greek Uppercase: F1 = 0.0375  (Precision=0.0575, Recall=0.0278)
+  Tifinagh: F1 = 0.0781  (Precision=0.1042, Recall=0.0625)
+  Malayalam: F1 = 0.3394  (Precision=0.4170, Recall=0.2861)
+  Telugu: F1 = 0.6725  (Precision=0.5540, Recall=0.8556)
+  Greek Lowercase: F1 = 0.0745  (Precision=0.1071, Recall=0.0571)
+  Numeral Arabic: F1 = 0.2222  (Precision=0.2698, Recall=0.1889)
+
+Model: 2-Gram Model
+  Burmese: F1 = 0.4421  (Precision=0.4667, Recall=0.4200)
+  Telugu: F1 = 0.6546  (Precision=0.4985, Recall=0.9528)
+  Malayalam: F1 = 0.5298  (Precision=0.4567, Recall=0.6306)
+  Burmese Numerals: F1 = 0.1739  (Precision=0.4000, Recall=0.1111)
+  Cyrillic: F1 = 0.2348  (Precision=0.2455, Recall=0.2250)
+  Tifinagh: F1 = 0.3035  (Precision=0.3029, Recall=0.3042)
+  Roman Uppercase: F1 = 0.2034  (Precision=0.1682, Recall=0.2571)
+  Malayalam Numerals: F1 = 0.0556  (Precision=0.1667, Recall=0.0333)
+  Greek Lowercase: F1 = 0.3508  (Precision=0.4957, Recall=0.2714)
+  Greek Uppercase: F1 = 0.1362  (Precision=0.1179, Recall=0.1611)
+  Hebrew: F1 = 0.5086  (Precision=0.6357, Recall=0.4238)
+  Numeral Arabic: F1 = 0.1770  (Precision=0.4348, Recall=0.1111)
+  Roman Lowercase: F1 = 0.3791  (Precision=0.6042, Recall=0.2762)
+  Telugu Numerals: F1 = 0.0213  (Precision=0.2500, Recall=0.0111)
+
+Model: 3-Gram Model
+  Burmese: F1 = 0.5595  (Precision=0.5623, Recall=0.5567)
+  Telugu: F1 = 0.6999  (Precision=0.5459, Recall=0.9750)
+  Burmese Numerals: F1 = 0.1774  (Precision=0.3235, Recall=0.1222)
+  Malayalam Numerals: F1 = 0.2027  (Precision=0.5357, Recall=0.1250)
+  Cyrillic: F1 = 0.2327  (Precision=0.2512, Recall=0.2167)
+  Tifinagh: F1 = 0.3453  (Precision=0.3738, Recall=0.3208)
+  Roman Uppercase: F1 = 0.1593  (Precision=0.1237, Recall=0.2238)
+  Greek Lowercase: F1 = 0.3987  (Precision=0.5943, Recall=0.3000)
+  Greek Uppercase: F1 = 0.1194  (Precision=0.0969, Recall=0.1556)
+  Hebrew: F1 = 0.5188  (Precision=0.7545, Recall=0.3952)
+  Malayalam: F1 = 0.5626  (Precision=0.5457, Recall=0.5806)
+  Numeral Arabic: F1 = 0.1935  (Precision=0.2308, Recall=0.1667)
+  Roman Lowercase: F1 = 0.4260  (Precision=0.5625, Recall=0.3429)
+  Telugu Numerals: F1 = 0.1129  (Precision=0.2059, Recall=0.0778)
+
+Model: 4-Gram Model
+  Burmese: F1 = 0.5770  (Precision=0.5615, Recall=0.5933)
+  Telugu Numerals: F1 = 0.1166  (Precision=0.0977, Recall=0.1444)
+  Burmese Numerals: F1 = 0.0886  (Precision=0.1029, Recall=0.0778)
+  Malayalam Numerals: F1 = 0.2484  (Precision=0.4878, Recall=0.1667)
+  Cyrillic: F1 = 0.2100  (Precision=0.2625, Recall=0.1750)
+  Roman Lowercase: F1 = 0.4048  (Precision=0.5537, Recall=0.3190)
+  Roman Uppercase: F1 = 0.1636  (Precision=0.1200, Recall=0.2571)
+  Greek Lowercase: F1 = 0.3514  (Precision=0.6047, Recall=0.2476)
+  Telugu: F1 = 0.7770  (Precision=0.6447, Recall=0.9778)
+  Greek Uppercase: F1 = 0.0826  (Precision=0.0703, Recall=0.1000)
+  Hebrew: F1 = 0.4255  (Precision=0.8333, Recall=0.2857)
+  Tifinagh: F1 = 0.3024  (Precision=0.3647, Recall=0.2583)
+  Malayalam: F1 = 0.5806  (Precision=0.5806, Recall=0.5806)
+  Numeral Arabic: F1 = 0.2273  (Precision=0.1923, Recall=0.2778)
+
+Cumulative (Macro-Averaged) F1 Scores:
+  bos_distance: Macro F1 = 0.2772
+  bucket_distance: Macro F1 = 0.2064
+  2-Gram Model: Macro F1 = 0.2979
+  3-Gram Model: Macro F1 = 0.3363
+  4-Gram Model: Macro F1 = 0.3254
+-------------------------------------
+Expected Random Baseline F1 Score (based on label distribution): 0.0841
+-------------------------------------

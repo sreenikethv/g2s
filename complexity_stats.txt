@@ -1,0 +1,140 @@
+--- Statistics for Burmese ---
+Script: Burmese
+Count: 40
+Mean: 4.75
+Median: 4.0
+Min: 2
+Max: 10
+Range: 8
+Variance (Population): 2.938
+Std Dev (Population): 1.714
+--- Statistics for Burmese Numerals ---
+Script: Burmese Numerals
+Count: 10
+Mean: 3.8
+Median: 4.0
+Min: 2
+Max: 6
+Range: 4
+Variance (Population): 1.16
+Std Dev (Population): 1.077
+--- Statistics for Cyrillic ---
+Script: Cyrillic
+Count: 32
+Mean: 4.375
+Median: 4.0
+Min: 2
+Max: 8
+Range: 6
+Variance (Population): 2.359
+Std Dev (Population): 1.536
+--- Statistics for Greek Lowercase ---
+Script: Greek Lowercase
+Count: 25
+Mean: 4.24
+Median: 4
+Min: 2
+Max: 8
+Range: 6
+Variance (Population): 2.342
+Std Dev (Population): 1.53
+--- Statistics for Greek Uppercase ---
+Script: Greek Uppercase
+Count: 24
+Mean: 4.25
+Median: 4.0
+Min: 2
+Max: 6
+Range: 4
+Variance (Population): 2.104
+Std Dev (Population): 1.451
+--- Statistics for Hebrew ---
+Script: Hebrew
+Count: 27
+Mean: 4.074
+Median: 4
+Min: 2
+Max: 6
+Range: 4
+Variance (Population): 2.217
+Std Dev (Population): 1.489
+--- Statistics for Malayalam ---
+Script: Malayalam
+Count: 47
+Mean: 5.489
+Median: 6
+Min: 2
+Max: 12
+Range: 10
+Variance (Population): 5.186
+Std Dev (Population): 2.277
+--- Statistics for Malayalam Numerals ---
+Script: Malayalam Numerals
+Count: 13
+Mean: 5.231
+Median: 6
+Min: 2
+Max: 8
+Range: 6
+Variance (Population): 2.793
+Std Dev (Population): 1.671
+--- Statistics for Numeral Arabic ---
+Script: Numeral Arabic
+Count: 10
+Mean: 3.4
+Median: 4.0
+Min: 2
+Max: 4
+Range: 2
+Variance (Population): 0.84
+Std Dev (Population): 0.917
+--- Statistics for Roman Lowercase ---
+Script: Roman Lowercase
+Count: 26
+Mean: 3.615
+Median: 4.0
+Min: 2
+Max: 6
+Range: 4
+Variance (Population): 0.929
+Std Dev (Population): 0.964
+--- Statistics for Roman Uppercase ---
+Script: Roman Uppercase
+Count: 26
+Mean: 3.769
+Median: 4.0
+Min: 2
+Max: 6
+Range: 4
+Variance (Population): 2.254
+Std Dev (Population): 1.501
+--- Statistics for Telugu ---
+Script: Telugu
+Count: 48
+Mean: 8.792
+Median: 8.0
+Min: 4
+Max: 14
+Range: 10
+Variance (Population): 6.123
+Std Dev (Population): 2.475
+--- Statistics for Telugu Numerals ---
+Script: Telugu Numerals
+Count: 10
+Mean: 3.6
+Median: 4.0
+Min: 2
+Max: 6
+Range: 4
+Variance (Population): 2.24
+Std Dev (Population): 1.497
+--- Statistics for Tifinagh ---
+Script: Tifinagh
+Count: 30
+Mean: 4.267
+Median: 4.0
+Min: 2
+Max: 8
+Range: 6
+Variance (Population): 2.862
+Std Dev (Population): 1.692

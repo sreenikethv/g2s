@@ -1,0 +1,369 @@
+Script,Letter,Annotation
+Cyrillic,А,BADn1353+1353SATf
+Cyrillic,Б,BATr1315+1115MACa
+Cyrillic,В,BATl3133+1115MACa13+11MACa
+Cyrillic,Г,BATr
+Cyrillic,Д,SOTn21+15BICKy51+11BATg
+Cyrillic,Е,BITc13+13SATf
+Cyrillic,Ж,MUTu35+31MUTn31+31BITl
+Cyrillic,З,BACk
+Cyrillic,И,BITl35+15BADy51+31BITl
+Cyrillic,Й,BITl35+15BADy(30%35SACu)51+31BITl
+Cyrillic,К,BITl33+13BADc
+Cyrillic,Л,BICKy51+11BATg
+Cyrillic,М,BITl11+11MADu51+31BITl
+Cyrillic,Н,BITl13+13SATf53+33BITl
+Cyrillic,О,BACo
+Cyrillic,П,BATn
+Cyrillic,Р,BITl3133+1155MACa
+Cyrillic,С,BACc
+Cyrillic,Т,SATf33+31BITl
+Cyrillic,У,MADy55+33BADv
+Cyrillic,Ф,BITl3234+3135BUCo
+Cyrillic,Х,BADv33+33BADy
+Cyrillic,Ц,BATu55+11SITg
+Cyrillic,Ч,MACu51+31BITl
+Cyrillic,Ш,BUTw
+Cyrillic,Щ,BUTb+BUTw55+11SITg
+Cyrillic,Ъ,SITf53+13BITl3335+1115MACa
+Cyrillic,Ы,BITl3335+1115MACa65%35BITl
+Cyrillic,Ь,BITl3335+1115MACa
+Cyrillic,Э,BACa53+53SATf
+Cyrillic,Ю,BITl33+13SITf53+13BACo
+Cyrillic,Я,MADy51+55MACc51+31BITl
+Greek Uppercase,Α,BADn1353+1353SATf
+Greek Uppercase,Β,BATl3133+1115MACa13+11MACa
+Greek Uppercase,Γ,BATr
+Greek Uppercase,Δ,BADn1555+1353MATf
+Greek Uppercase,Ε,BITc13+13SATf
+Greek Uppercase,Ζ,SATf53+51BADy15+15SATf
+Greek Uppercase,Η,BITl33+13SATf53+13BITl
+Greek Uppercase,Θ,BUCo1353+1353SATf
+Greek Uppercase,Ι,BITl
+Greek Uppercase,Κ,BITl13+13BADc
+Greek Uppercase,Λ,BADn
+Greek Uppercase,Μ,BITl11+11MADu51+11BITl
+Greek Uppercase,Ν,BITl11+11BADv55+15BITl
+Greek Uppercase,Ξ,BUTb31+33SATf36%33SITf36%33SATf
+Greek Uppercase,Ο,BACo
+Greek Uppercase,Π,BATn
+Greek Uppercase,Ρ,BITl1113+1155MACa
+Greek Uppercase,Σ,SATf11+11BIDa15+13SATf
+Greek Uppercase,Τ,SATf33+31BITl
+Greek Uppercase,Υ,MADu35+31MITl
+Greek Uppercase,Φ,BITl3234+3135BACo
+Greek Uppercase,Χ,BADv33+33BADy
+Greek Uppercase,Ψ,BACu35+34BITl
+Greek Uppercase,Ω,SITf53+15BACn55+13SITf
+Greek Lowercase,α,SICKy15&53MACo53&11SICKv
+Greek Lowercase,β,BUTb35+34HITl3135&1115BACk
+Greek Lowercase,γ,BUTb+MACVv55&31MITl31&15MACKy
+Greek Lowercase,δ,MACo31&55MACVv
+Greek Lowercase,ε,MACe
+Greek Lowercase,ζ,BUTb31+SITf35+51BICc55&11SICa
+Greek Lowercase,η,BUTb+MITf35+15MACn55&31SITf
+Greek Lowercase,θ,BICo1353+1353SITf
+Greek Lowercase,ι,MICt
+Greek Lowercase,κ,MITl33+13MADc
+Greek Lowercase,λ,MIDy51+33BIDv
+Greek Lowercase,μ,BUTb35+33BITl31+11MACu51+31MITl
+Greek Lowercase,ν,MADv55+15MACKy
+Greek Lowercase,ξ,BUTb+BICe55&11SICa
+Greek Lowercase,ο,MACo
+Greek Lowercase,π,MICl31+21SATf24+31MICl
+Greek Lowercase,ρ,BUTb+MACo15&31MITl
+Greek Lowercase,ς,BUTb+BICc55&11SICa
+Greek Lowercase,σ,MACo51+13SITf
+Greek Lowercase,τ,SATf33+11MICt
+Greek Lowercase,υ,MACu
+Greek Lowercase,φ,BUTb+BITl3234+3135MACo
+Greek Lowercase,χ,BUTb35+33BIDv(11&55SICVf)(55&11SICKf)33+33BIDy
+Greek Lowercase,ψ,BUTb+MACu35+34BITl
+Greek Lowercase,ω,MACw
+Hebrew,א,BICKy15+44BADv22+51BICVy
+Hebrew,ב,BACg55+43BATf
+Hebrew,ג,MACg53+11MIDv33+51MADy
+Hebrew,ד,MATf43+31BITl
+Hebrew,ה,BACg15%35MITl
+Hebrew,ו,BITl
+Hebrew,ז,SITf33+31BICl
+Hebrew,ח,BITl31+11BACg
+Hebrew,ט,BIDv55+15BICa
+Hebrew,י,BUTb31+31MITl
+Hebrew,ך,BUTb35+54HACg
+Hebrew,כ,BACa
+Hebrew,ל,SITl35+11MACg55+51MICr
+Hebrew,ם,BACg1155+1155BATt
+Hebrew,מ,SIDv55+42BADy51+51BACj
+Hebrew,ן,BUTb31+34HITl
+Hebrew,נ,MACg55+53MATf
+Hebrew,ס,BACo
+Hebrew,ע,BACj25+55BIDv
+Hebrew,ף,BUTb35+54SACt11+11HACg
+Hebrew,פ,SACt11+11BACg55+55BATf
+Hebrew,ץ,BUTb+BACy15+33BIDv55+31BITl
+Hebrew,צ,MACy15+33BADv55+53SATf
+Hebrew,ק,BUTb+MACg(55+51MICr)12%31BITl
+Hebrew,ר,BACg
+Hebrew,ש,BACu13+15MACj
+Hebrew,ת,BACg21+51BITj
+Numeral Arabic,0,BICo
+Numeral Arabic,1,BITl
+Numeral Arabic,2,BACa15+13SATf
+Numeral Arabic,3,BACk
+Numeral Arabic,4,MATt55+33BITl
+Numeral Arabic,5,MATr15+11MACa
+Numeral Arabic,6,MACVy15&11MACo
+Numeral Arabic,7,SATf53+51BADy
+Numeral Arabic,8,MATo35&31MATo
+Numeral Arabic,9,MACo55&51MACKy
+Roman Uppercase,A,BADn1353+1353SATf
+Roman Uppercase,B,BATl3133+1115MACa13+11MACa
+Roman Uppercase,C,BACc
+Roman Uppercase,D,BITl3135+1115BACa
+Roman Uppercase,E,BITc13+13SATf
+Roman Uppercase,F,BATr13+13SATf
+Roman Uppercase,G,BACc55+55MATg
+Roman Uppercase,H,BITl33+13SATf53+13BITl
+Roman Uppercase,I,BITl
+Roman Uppercase,J,BICj
+Roman Uppercase,K,BITl13+13BADc
+Roman Uppercase,L,BATt
+Roman Uppercase,M,BITl11+11MADu51+11BITl
+Roman Uppercase,N,BITl11+11BADv55+15BITl
+Roman Uppercase,O,BACo
+Roman Uppercase,P,BITl1113+1155MACa
+Roman Uppercase,Q,BACo55+11MADv
+Roman Uppercase,R,BITl3133+1115MACa15+11MADv
+Roman Uppercase,S,BACs
+Roman Uppercase,T,SATf33+31BITl
+Roman Uppercase,U,BACu
+Roman Uppercase,V,BADu
+Roman Uppercase,W,BADw
+Roman Uppercase,X,BADv33+33BADy
+Roman Uppercase,Y,MADu35+11MITl
+Roman Uppercase,Z,SATf53+51BADy15+15SATf
+Roman Lowercase,a,MACo51+11SITl
+Roman Lowercase,b,BITl34+13MACo
+Roman Lowercase,c,MACc
+Roman Lowercase,d,BITl34+53MACo
+Roman Lowercase,e,MACc1353+1353SATf
+Roman Lowercase,f,BICr13+33SATf
+Roman Lowercase,g,BATb33+31MACo53+51BICj
+Roman Lowercase,h,BITl35+15MACn
+Roman Lowercase,i,MITl30%33SICi
+Roman Lowercase,j,BUTb35+53BICj50%33SICi
+Roman Lowercase,k,BITl34+13MADc
+Roman Lowercase,l,BITl
+Roman Lowercase,m,MITl35+15MACm
+Roman Lowercase,n,MITl35+15MACn
+Roman Lowercase,o,MACo
+Roman Lowercase,p,BUTb35+33BITl32+13MACo
+Roman Lowercase,q,BUTb35+33BITl32+53MACo
+Roman Lowercase,r,MITl15+15MACr
+Roman Lowercase,s,MACs
+Roman Lowercase,t,BATl33+21SATf
+Roman Lowercase,u,MACu51+11MITl
+Roman Lowercase,v,MADu
+Roman Lowercase,w,MADw
+Roman Lowercase,x,MADv33+33MADy
+Roman Lowercase,y,BUTb+MADy55+33BADv
+Roman Lowercase,z,SATf53+51MADy15+15SATf
+Tifinagh,ⴰ,SACo
+Tifinagh,ⴱ,BACo1353+1353SATf
+Tifinagh,ⴳ,BADy51+53SATf13+11BADv
+Tifinagh,ⴷ,BADn
+Tifinagh,ⴹ,BATe
+Tifinagh,ⴻ,BUTb31+31SACo36%33MUTf36%31SACo
+Tifinagh,ⴼ,BITa53+13SITf53+13BITc
+Tifinagh,ⴽ,BATr5115+5115BADy33+33MADv
+Tifinagh,ⵃ,BADy33+11MADv
+Tifinagh,ⵄ,MITl35+31MATn
+Tifinagh,ⵅ,BADv33+33BADy33+35MITl
+Tifinagh,ⵇ,BATc5115+5115BADy
+Tifinagh,ⵉ,BADe
+Tifinagh,ⵊ,SATf33+31BITl33+33SATf
+Tifinagh,ⵍ,BITl35+15BIDy51+31BITl
+Tifinagh,ⵎ,BACc
+Tifinagh,ⵏ,BITl
+Tifinagh,ⵓ,SACo36%31SACo
+Tifinagh,ⵔ,BACo
+Tifinagh,ⵕ,BACo55+33MADv
+Tifinagh,ⵖ,MATu35+31MITl
+Tifinagh,ⵙ,BACo33%33SICi
+Tifinagh,ⵚ,BACo51+33MADy
+Tifinagh,ⵛ,SACo51+51BACc55+55SACo
+Tifinagh,ⵜ,BITl33+33SATf
+Tifinagh,ⵟ,BADc13+13SITf33+33SITl
+Tifinagh,ⵡ,BATu
+Tifinagh,ⵢ,MIDy15+11MADa
+Tifinagh,ⵣ,SUCu35+32BITl34+31SUCn
+Tifinagh,ⵥ,SUCu35+32BITl(33+33SATf)34+31SUCn
+Burmese,အ,BUCk51+11BUCa15+15SACo
+Burmese,ဢ,BUCn(13*MACz)51+11BUCa
+Burmese,ဣ,BUTb+BUCm36%31SUCm55+13SITf
+Burmese,ဥ,BUTb+BUCa15+11BUCt
+Burmese,ဦ,BUCa(30%35MUCo35+35SUCo)15+11BUCt
+Burmese,ဧ,SUCo51+51BUCc55+55SUCo
+Burmese,ဨ,BUTb+MACz55&35BICKl35&51HUCc
+Burmese,က,BUCn51+11BUCa
+Burmese,ခ,BUCa15+15SUCo
+Burmese,ဂ,BUCn
+Burmese,ဃ,BUCu(13*MACz)55+15BUCa
+Burmese,င,BUCc
+Burmese,စ,BUCo13+13SUCo
+Burmese,ဆ,SUCo15+15BUCa53+13BUCo
+Burmese,ဇ,BUCc51+51SICo51&11SICVv
+Burmese,ဈ,BUTb+BUCo(13+13SUCo)35+31SITl35+11SATf53+35HITl
+Burmese,ဉ,BUTb+BUCa15+11BOCt
+Burmese,ည,BUTb+BUCa(55+15BUCa)15+11BOCt
+Burmese,ဋ,BUTb+BUCc36%33SUCKf53+11MATt
+Burmese,ဌ,BUTb+BUCc55+11BUCj15+15SICo
+Burmese,ဍ,BUTb+BUCa15+11BUCt55+11SITt
+Burmese,ဎ,BUCu13*MACz
+Burmese,ဏ,BUCn55&15BICo55&15BUCn
+Burmese,တ,BUCo51+11BUCa
+Burmese,ထ,BUCo53+13BUCo
+Burmese,ဒ,BUCk
+Burmese,ဓ,BUCo35+35SUCo
+Burmese,န,BUTb+BUCs15+15SUCo55&31SITl
+Burmese,ပ,BUCu
+Burmese,ဖ,BUCu51+51BUCo
+Burmese,ဗ,BUCu1151+1151SUCu
+Burmese,ဘ,BUCa51+11BUCa
+Burmese,မ,BUCu35+35SUCo
+Burmese,ယ,BUCu55+15BUCa
+Burmese,ရ,BUTb+SICo15+15BUCn55&11MITt
+Burmese,လ,BUCd
+Burmese,ဝ,BUCo
+Burmese,သ,BUCa55+15BUCa
+Burmese,ဟ,BUCu51+11BUCa
+Burmese,ဠ,BUTb+BUCc55+51SUCj15+11MUCt
+Burmese Numerals,၀,BUCo33%33SICi
+Burmese Numerals,၁,BUCa
+Burmese Numerals,၂,BUTb35+53HUCj
+Burmese Numerals,၃,BUTb+BUCa15+11BUDv
+Burmese Numerals,၄,BUTb+BUCc55+51BUDy
+Burmese Numerals,၅,BUTb+MACo15+15BUCn55&51BUCj
+Burmese Numerals,၆,MACs15&55HUCc
+Burmese Numerals,၇,BUTb+BUCn55&51SICc
+Burmese Numerals,၈,MACo15+15BUCn
+Burmese Numerals,၉,BUTb+MACz11&51HUCc
+Malayalam,അ,BUCn(53*BUCk)55+15BUCn55+15BUCn55+55SICo
+Malayalam,ആ,BUTb+BUCn(53*BUCk)55+15BUCn55+15BUCn55+55SICo51+11SICa
+Malayalam,ഇ,MACo15+15BUCz31*BUCm
+Malayalam,ഉ,MACo15+15BUCz
+Malayalam,ഋ,SICo11+11MUCu(35&31MACo)51+51SICo
+Malayalam,ഌ,MACo15+15BUCm55+55MACo
+Malayalam,എ,BUTb+SUCn55+13SATf53+15HITl35&15HUCn
+Malayalam,ഏ,BUTb+SUCn55+13SATf53+15HITl35&15HUCn53*HUCk
+Malayalam,ഒ,MACo15+15BUCn53*BUCk
+Malayalam,ക,BACo151353+152141MOCn
+Malayalam,ഖ,MACo15+15BUCn55+15BITj
+Malayalam,ഗ,BUCh
+Malayalam,ഘ,MACn55+13SUTf53+55MACg11&11BUTu
+Malayalam,ങ,MACo15+15BUCn55+15BUCn53*BUCk
+Malayalam,ച,MACa15+25SOTf53+15BITl
+Malayalam,ഛ,MACa15+25SUTf53+15BUCn55+55MACo
+Malayalam,ജ,SICo11+11BUCz(31*MUCm)55&55SICo
+Malayalam,ഝ,BUCn5551&1511BUCd51+11BUCu
+Malayalam,ഞ,MACo15+15BUCn55+15BUCn5551&1511BUCn
+Malayalam,ട,BUCs
+Malayalam,ഠ,BUCo
+Malayalam,ഡ,BUCd51+11BUCu
+Malayalam,ഢ,BUCd51+11BUCu51+51MUCo
+Malayalam,ണ,MACo15+15BUCn55+15BUCm
+Malayalam,ത,BUCn5551&1511BUCn
+Malayalam,ഥ,BUTt3555+1555BUCn
+Malayalam,ദ,BUCn53*BUCk
+Malayalam,ധ,BUCw
+Malayalam,ന,BUCm
+Malayalam,ഩ,MACo15+15BUCm
+Malayalam,പ,SACn55+15BUTj
+Malayalam,ഫ,SACn55+13MUTf3353+1555BACn
+Malayalam,ബ,MACo15+15BUCm55+15BATj
+Malayalam,ഭ,BUCn53*MACs
+Malayalam,മ,BUCn1555+1353MUCf31+51BACKy
+Malayalam,യ,BACc5155&1115BACo55&15BACa
+Malayalam,ര,BUCn55+55MACo
+Malayalam,റ,BUCn
+Malayalam,ല,SICn1555+1353SITf13+13BUTu
+Malayalam,ള,MACo11+11BUCz52*MACk
+Malayalam,ഴ,MACu5135&5153BACj
+Malayalam,വ,BUCn55+15BATj
+Malayalam,ശ,BUCh55+55MUCo
+Malayalam,ഷ,SACn55+15BUTj31+51MACu1135&3133BITl
+Malayalam,സ,BUCn55+15BUCd
+Malayalam,ഹ,SACn55+13SATf53+15BUCn
+Malayalam,ഺ,BUTb+BUTt35+31SITl
+Malayalam Numerals,൦,BUCo
+Malayalam Numerals,൧,SICc51&13SUTf2353+1555BUCn
+Malayalam Numerals,൨,BUCn55+13SATf
+Malayalam Numerals,൩,BUCm55+13SATf
+Malayalam Numerals,൪,BUCn5531+5511MACo11&15SICa
+Malayalam Numerals,൫,BUCn(53*BUCk)55&51MUCu11&15BOCn
+Malayalam Numerals,൬,BUTb+BUCn55+15BUCm55&51SICKy
+Malayalam Numerals,൭,MACo11+11BACa
+Malayalam Numerals,൮,BUTb+BUCn55+13SICf13+53HACj
+Malayalam Numerals,൯,BUCm5531+5511MACo11&15SICa
+Malayalam Numerals,൰,BUTb5+34BITl31+11BUCw
+Malayalam Numerals,൱,BUTb+BUCm55&51SICKy
+Malayalam Numerals,൲,BUCm55+55MACo51&13SITf53&15SICo
+Telugu,అ,MACo11+11BUCu51&51MACr15+13SATf
+Telugu,ఆ,MACo11+11BUCu51&11MACo15&53SACf
+Telugu,ఇ,BUCa(31*BUCm)15+15MUCo51&11SICu
+Telugu,ఈ,BUCo(2343+2343SOTf53&31SUCo31+15SUCa)31+55SUDv55+15SUDy
+Telugu,ఉ,SITl35+31BUCc(35*BUCw)(55+55MACo)13+13SUTf
+Telugu,ఊ,SITl35+31BUCc(35*BUCw)(55+55MACo)13+13SUTf53&31SUCo31+15SUCa
+Telugu,ఋ,BACz55+15BACa55+15BACa55+15BACa
+Telugu,ఎ,MACo55+15BUCa
+Telugu,ఏ,MACo55+15BUCa01%33SICl
+Telugu,ఐ,MACo55+15BUCa31*BUCm
+Telugu,ఒ,BUCz35*BUCw
+Telugu,ఓ,BUCz(35*BUCw)31+15SACr
+Telugu,ఔ,BUCz(35*BUCw)31+15SUCa11+15MACf53+31MACo
+Telugu,క,BUCs31+55SUDv55+15SUDy
+Telugu,ఖ,MACo11+11BACa15+15MUCo51&15BACa15+31SITl
+Telugu,గ,BUCn31+55SUDv55+15SUDy
+Telugu,ఘ,MACo55+15BUCa(01%55SUDv55+15SUDy)(15+31SICl)55+15BACa
+Telugu,ఙ,BACz(35*BUCw)52+13SITf33+35SITl
+Telugu,చ,SITf35+15BUCa(35*BUCw)11+55SUDv55+15SUDy
+Telugu,ఛ,SITf35+15BUCa(35*BUCw31+31SITf)11+55SUDv55+15SUDy
+Telugu,జ,BACz(35*BUCw)52+15SICa
+Telugu,ఝ,BUCo(31+55SUDv55+15SUDy)55+15BUCa15+15BUCa55+31SICl
+Telugu,ఞ,BUCa(31*BUCm)15+15MUCo51&11SICu53+13SITf33+35SITl
+Telugu,ట,SITl35+31MACo11+11BUCu35*BUCw
+Telugu,ఠ,BUCo(33%33SICo)31+55SUDv55+15SUDy
+Telugu,డ,BUCa(35*BUCm)(55+55MACo)31+55SUDv55+15SUDy
+Telugu,ఢ,BUCa(35*BUCm31+31SICl)(55+55MACo)31+55SUDv55+15SUDy
+Telugu,ణ,BUCn(13*BUCe)(31*BUCm)55+55MACo
+Telugu,త,MACo11+11BUCu51+51MACo51&55SICv11+55SUDv55+15SUDy
+Telugu,థ,BUCo(35*BUCw31+31SITl)(33%33SICi)31+55SUDv55+15SUDy
+Telugu,ద,BUCo(35*BUCw)31+55SUDv55+15SUDy
+Telugu,ధ,BUCo(35*BUCw31+31SITl)31+55SUDv55+15SUDy
+Telugu,న,MACn55&15BUCa11+55SUDv55+15SUDy
+Telugu,ప,MACo55+15BUCa01%55SUDv55+15SUDy
+Telugu,ఫ,MACo55+15BUCa(01%55SUDv55+15SUDy)15+31SICl
+Telugu,బ,BACz55+15BACa
+Telugu,భ,BACz(55+31SICl)55+15BACa51+55SUDv55+15SUDy
+Telugu,మ,MACo55+15BUCa(51+55SUDv55+15SUDy)55+15BACa
+Telugu,య,BUCo55+51BACa(11+55SUDv55+15SUDy)55+15BACa
+Telugu,ర,BUCo31+55SUDv55+15SUDy
+Telugu,ఱ,MACo11+11BUCu(35*BUCw)51&51MACr15+13SATf
+Telugu,ల,MACo11+11BUCu
+Telugu,ళ,MACo11+11BUCu35&31MUCo51+55SUDv55+15SUDy
+Telugu,వ,MACo55+15BUCa51+55SUDv55+15SUDy
+Telugu,శ,MACg51&33BUCz11+55SUDv55+15SUDy
+Telugu,ష,MACo55+15BUCa(01%55SUDv55+15SUDy)55+11SICv
+Telugu,స,MACn55&15BUCa01%55SUDv55+15SUDy
+Telugu,హ,MACo55+15BUCa(01%55SUDv55+15SUDy)51+13SATf53+31SICo
+Telugu Numerals,౦,BUCo
+Telugu Numerals,౧,BUCn
+Telugu Numerals,౨,SICo11+11BUCa15&53SATf
+Telugu Numerals,౩,BUCk
+Telugu Numerals,౪,MUCu35&31SACo
+Telugu Numerals,౫,BACa53&15MICo15+11MICv
+Telugu Numerals,౬,BACe55&13SATf
+Telugu Numerals,౭,BUCz
+Telugu Numerals,౮,BUCu51+13SITf
+Telugu Numerals,౯,BACe51&13SATf
